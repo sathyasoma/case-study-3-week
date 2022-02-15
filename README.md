@@ -16,7 +16,7 @@ Create Product details Application:
   product int pincode;
 											 
 2. As a End user enter the customer details.
-3. Use Database as HashSet to store the values.
+3. Use Database as HashMap to store the values.
 
 Requiremnts	:
 =============
@@ -37,3 +37,4 @@ End user enter by seeing this detials.
 	code 
 	address 
 	pincode 
+5. what ever the values enter by the enduser stored in HashMap.
